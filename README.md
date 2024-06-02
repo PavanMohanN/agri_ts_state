@@ -13,3 +13,16 @@ Our repository is organized as follows:
 3. **ICRISAT-DATA COLLECTION.ipynb**: Ever wondered how we transformed the raw data into a clean, analysis-ready format? This Jupyter notebook walks you through the entire data cleaning process, step by step.
 
 4. **FINAL ICRISAT PROCEDURE <crop_name>.ipynb**: These files are where the magic happens! Here, we implement ARIMA models on selected crops, turning data into valuable predictions.
+
+`Created in May 2024`
+
+`@author: Pavan Mohan Neelamraju`
+
+`Affiliation: Indian Institute of Technology Madras`
+
+**Email**: npavanmohan3@gmail.com
+
+**Personal Website 🔴🔵**: [pavanmohann.github.io](https://pavanmohann.github.io/)
+
+
+---
