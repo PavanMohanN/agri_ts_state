@@ -21,19 +21,19 @@ Our repository is organized as follows:
 ![Picture4](https://github.com/PavanMohanN/agri_ts_state/assets/65588614/62a81dcc-be06-47dc-ae8c-ce8eaa441b26)
 
 
-Fig. 2. Flow of implementation
+Fig. 1. Flow of implementation
 
 
 ![Picture3](https://github.com/PavanMohanN/agri_ts_state/assets/65588614/1b002035-c124-448c-93ad-ff3683d86318)
 
 
-Fig. 3. Auto-correlation and Partial Auto-correlation
+Fig. 2. Auto-correlation and Partial Auto-correlation
 
 
 ![Picture2](https://github.com/PavanMohanN/agri_ts_state/assets/65588614/7de4fc4a-4d2e-44ff-bc2b-37494b568c44)
 
 
-Fig. 4. ARIMA Projections
+Fig. 3. ARIMA Projections
 
 
 `Created in May 2024`
