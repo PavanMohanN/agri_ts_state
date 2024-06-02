@@ -1,3 +1,6 @@
+
+![Picture1](https://github.com/PavanMohanN/agri_ts_state/assets/65588614/d7c41d5a-93d0-4ad1-8860-c052ff721ca8)
+
 # 🌾 Harvesting Predictions: ARIMA Models in Telangana’s Agriculture 🌽
 Welcome to a fascinating journey where we harness the power of ARIMA models to predict crop yields in the vibrant state of Telangana. This repository is a treasure trove of insights and predictions, a testament to the blend of technology and agriculture.
 
