@@ -18,7 +18,7 @@ Our repository is organized as follows:
 
 `@author: Pavan Mohan Neelamraju`
 
-`Affiliation: Indian Institute of Technology Madras`
+`Affiliation: SRM University AP - Andhra Pradesh`
 
 **Email**: npavanmohan3@gmail.com
 
