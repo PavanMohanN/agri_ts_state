@@ -15,7 +15,7 @@ Our repository is organized as follows:
 4. **FINAL ICRISAT PROCEDURE <crop_name>.ipynb**: These files are where the magic happens! Here, we implement ARIMA models on selected crops, turning data into valuable predictions.
 
 
-### 🔍 The data
+### 🔍 Data and acquisition
 
 ![open_data_logo-01](https://github.com/PavanMohanN/agri_ts_state/assets/65588614/7065a3f3-957a-4810-a5ec-7591829cb776)
 
