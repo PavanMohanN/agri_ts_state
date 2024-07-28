@@ -1,6 +1,4 @@
 
-![Picture1](https://github.com/user-attachments/assets/8202c496-1fc3-4e26-9044-fa46209084a9)
-
 ![Picture1](https://github.com/PavanMohanN/agri_ts_state/assets/65588614/11658d5e-20d5-43d5-b603-8a18e9945911)
 
 # Harvesting Predictions: ARIMA Models in Telangana’s Agriculture 🌾
